@@ -11,8 +11,7 @@ Welcome to Raging Titans, an exciting shooting game built using the Unreal Engin
 5. [Scoring](#scoring)
 6. [Technical Requirements](#technical-requirements)
 7. [Feedback](#feedback)
-8. [Credits](#credits)
-9. [License](#license)
+8. [License](#license)
 
 ## Installation
 
@@ -55,13 +54,6 @@ To ensure optimal performance, make sure your system meets the following require
 ## Feedback
 
 We appreciate your feedback! If you encounter any issues, have suggestions, or just want to share your thoughts on Raging Titans, please [submit an issue](https://github.com/yourusername/raging-titans/issues).
-
-## Credits
-
-- Game Design: [Your Name]
-- Programming: [Programmer's Name]
-- Art and Animation: [Artist's Name]
-- Sound and Music: [Composer's Name]
 
 ## License
 
